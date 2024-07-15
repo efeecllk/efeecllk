@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Efe Çelik</h1>
 <h3 align="center">A passionate Data Science, Machine Learning, LLM</h3>
 
-- 🔭 I’m currently working on **TradingBot**
+- 🔭 I’m currently working on **chatBOT**
 
 - 🌱 I’m currently learning **Machine Learning**
 
