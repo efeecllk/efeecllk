@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **chatBot**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **NLP**
 
 
 
