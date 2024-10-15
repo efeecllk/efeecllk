@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Efe Çelik</h1>
-<h3 align="center">A passionate Data Science, Machine Learning, LLMs</h3>
+<h3 align="center">A passionate NLP, Deep Learning, LLMs</h3>
 
 - 🔭 I’m currently working on **chatBot**
 
