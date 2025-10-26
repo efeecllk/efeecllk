@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Efe Çelik</h1>
-<h3 align="center">Focused on NLP, Deep Learning, and LLMs</h3>
+<h3 align="center">Focused on AI, NLP, Deep Learning, and LLMs</h3>
 
 <p align="center">
   <a href="https://www.efeecllk.com">Personal</a> &nbsp;·&nbsp;
